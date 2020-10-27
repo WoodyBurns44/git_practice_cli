@@ -1,3 +1,4 @@
 Roses are red
 Violets are Blue
-Git is _______
+Git is cool
+And pathological too
